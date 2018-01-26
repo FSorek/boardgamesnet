@@ -1,0 +1,12 @@
+C:\Users\okito\source\repos\BoardGames\bin\Debug\netcoreapp2.0\BoardGames.deps.json
+C:\Users\okito\source\repos\BoardGames\bin\Debug\netcoreapp2.0\BoardGames.runtimeconfig.json
+C:\Users\okito\source\repos\BoardGames\bin\Debug\netcoreapp2.0\BoardGames.runtimeconfig.dev.json
+C:\Users\okito\source\repos\BoardGames\bin\Debug\netcoreapp2.0\BoardGames.dll
+C:\Users\okito\source\repos\BoardGames\bin\Debug\netcoreapp2.0\BoardGames.pdb
+C:\Users\okito\source\repos\BoardGames\obj\Debug\netcoreapp2.0\BoardGames.csprojResolveAssemblyReference.cache
+C:\Users\okito\source\repos\BoardGames\obj\Debug\netcoreapp2.0\BoardGames.csproj.CoreCompileInputs.cache
+C:\Users\okito\source\repos\BoardGames\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\okito\source\repos\BoardGames\obj\Debug\netcoreapp2.0\BoardGames.AssemblyInfoInputs.cache
+C:\Users\okito\source\repos\BoardGames\obj\Debug\netcoreapp2.0\BoardGames.AssemblyInfo.cs
+C:\Users\okito\source\repos\BoardGames\obj\Debug\netcoreapp2.0\BoardGames.dll
+C:\Users\okito\source\repos\BoardGames\obj\Debug\netcoreapp2.0\BoardGames.pdb
